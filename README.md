@@ -4,7 +4,7 @@
 A Developer, A Leaner, A Pathfinder, now trying to be a reseacher
 
 - 🔭 I’m currently working on my bachelor at BUPT
-- 🌱 I’m currently leaning DL and OS.
+- 🌱 I’m currently leaning CV.
 - 👯 I’m looking to collaborate on interesting people like you.
 - 🤔 I’m looking for help with research work
 - 📫 How to reach me: billren@bupt.edu.cn
