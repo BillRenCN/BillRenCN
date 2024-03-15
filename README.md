@@ -9,3 +9,6 @@ A Developer, A Leaner, A Pathfinder, now trying to be a researcher
 - 🤔 I’m looking for help with research work
 - 📫 How to reach me: billrenchina@gmail.com
 Check out my résumé:[中文简历](), [Resume]()
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
