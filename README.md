@@ -11,4 +11,13 @@ A Developer, A Leaner, A Pathfinder, now trying to be a researcher
 Check out my résumé:[中文简历](), [Resume]()
 
 <!--START_SECTION:waka-->
+
+```txt
+C          25 mins         █████████████░░░░░░░░░░░░   52.44 %
+Python     15 mins         ████████▒░░░░░░░░░░░░░░░░   32.68 %
+Makefile   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+Markdown   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+```
+
 <!--END_SECTION:waka-->
