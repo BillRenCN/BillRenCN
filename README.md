@@ -13,7 +13,9 @@ Check out my résumé:[中文简历](), [Resume]()
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 50 mins   █████████████████████████   100.00 %
+C          2 hrs 53 mins   ████████████████████████░   95.49 %
+Makefile   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
