@@ -13,7 +13,8 @@ Check out my résumé:[中文简历](), [Resume]()
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   11 mins         █████████████████████████   100.00 %
+Markdown   11 mins         ██████████████████████▒░░   88.70 %
+Python     1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
 ```
 
 <!--END_SECTION:waka-->
