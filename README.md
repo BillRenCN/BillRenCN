@@ -13,8 +13,7 @@ Check out my résumé:[中文简历](), [Resume]()
 <!--START_SECTION:waka-->
 
 ```txt
-C          1 min           ███████████████▓░░░░░░░░░   62.72 %
-Makefile   0 secs          █████████▒░░░░░░░░░░░░░░░   37.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
