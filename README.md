@@ -13,7 +13,9 @@ Check out my résumé:[中文简历](), [Resume]()
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Text     24 mins         ██████████████▒░░░░░░░░░░   57.75 %
+Python   8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.59 %
+Docker   8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.66 %
 ```
 
 <!--END_SECTION:waka-->
