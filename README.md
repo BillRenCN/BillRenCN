@@ -13,11 +13,11 @@ Check out my résumé:[中文简历](), [Resume]()
 <!--START_SECTION:waka-->
 
 ```txt
-Python            5 hrs 29 mins   ████████████████████░░░░░   79.51 %
-Docker            25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-Text              24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-Protocol Buffer   23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-Git Config        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Python            5 hrs 21 mins   █████████████████████▓░░░   86.01 %
+Protocol Buffer   23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Docker            16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Git Config        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+YAML              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
