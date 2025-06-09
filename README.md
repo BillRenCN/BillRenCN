@@ -13,8 +13,7 @@ Check out my résumé:[中文简历](), [Resume]()
 <!--START_SECTION:waka-->
 
 ```txt
-YAML     8 mins          █████████████████▒░░░░░░░   69.15 %
-Python   3 mins          ███████▓░░░░░░░░░░░░░░░░░   30.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
